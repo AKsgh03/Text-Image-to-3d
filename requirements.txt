@@ -1,0 +1,7 @@
+torch = 2.1.0
+shap e = 0.1.0
+open3d = 0.16.0
+opencv = 4.7.0.72
+rembg = 2.0.31
+trimesh = 3.11.11
+pyrender = 0.1.47
